@@ -67,9 +67,14 @@ def upload():
                
         result= "\n"+"Original Gender: "+gender_dict[gender]+ ", Predicted Gender: "+pred_gender + ", Original Age: "+ str(age)+", Predicted Age: " +str(pred_age)
         return result
-    
+        
+      
+
+     
     return None
+
+
+
 
 if __name__ == '__main__':
     app.run(debug=True)
-      
