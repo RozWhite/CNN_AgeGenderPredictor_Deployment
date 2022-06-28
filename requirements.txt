@@ -7,8 +7,9 @@ Werkzeug==2.0.3
 gunicorn==20.1.0
 opencv-python-headless==4.6.0.66
 gdown==4.5.1
-itsdangerous==1.1.0
-MarkupSafe==1.1.1
+itsdangerous
+MarkupSafe
+Jinja2
 numpy>=1.9.2
 scipy>=0.15.1
 scikit-learn>=0.18
