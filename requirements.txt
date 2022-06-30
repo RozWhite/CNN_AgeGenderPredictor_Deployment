@@ -2,13 +2,16 @@ Flask==2.0.3
 Keras==2.6.0
 Keras-Preprocessing==1.1.2
 Werkzeug==2.0.3
-gunicorn==20.1.0
+gunicorn
 numpy>=1.9.2
+Click==8.0.4
 tensorflow-cpu
-
-
-
-
+itsdangerous
+Jinja2
+requests
+Flask-WTF
+MarkupSafe>=2.0
+Pillow
 
 
 
