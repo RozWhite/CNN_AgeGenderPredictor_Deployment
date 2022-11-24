@@ -3,5 +3,7 @@ This project is about creating a deep learning (DL) end to end flask web app for
 
 UTKFace dataset is a large-scale face dataset with long age span (range from 0 to 116 years old). The dataset consists of over 20,000 face images with annotations of age, gender, and ethnicity. To overcome the challenge of memory limitations, I resized, normalized and descaled the images to single-channel images. 
 
+```
+<img src="cnn.png" class="center"/>
+```
 
-![My Image](cnn.png)
