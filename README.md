@@ -7,4 +7,5 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
 ```
 Run: python app.py
 ```
-<img src="cnn.png" class="center"/>
+<br>
+<img src="cnn.png" class="center" width="400" height="400"/>
